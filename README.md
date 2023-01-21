@@ -2,7 +2,7 @@
 
 <h1 align="center">ROSE-MD<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/iaWuQRB.jpeg" alt="animated" width="255" height="480" />
+<img src="https://telegra.ph/file/638a5852557c46fc4f020.jpg" alt="animated" width="155" height="280" />
 </p>
 
 <p align="center">
