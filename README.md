@@ -1,6 +1,6 @@
 
 
-<h1 align="center">BINO-MD<br></h1>
+<h1 align="center">ROSE-MD<br></h1>
 <p align="center">
 <img src="https://i.imgur.com/iaWuQRB.jpeg" alt="animated" width="255" height="480" />
 </p>
