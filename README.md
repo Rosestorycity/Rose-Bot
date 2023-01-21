@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Bino-MD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sparkymon777" target="_blank">Aswin Sparky</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Bino-MD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Rosestorycity" target="_blank">Rose</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Bino-MD Multi Device is a automated whatsapp bot created by <a href="https://git
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/917012984396"><img src="https://img.shields.io/badge/Contact SPARKY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/447558807292"><img src="https://img.shields.io/badge/Contact rose-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/@sparkymon777"><img src="https://img.shields.io/badge/Subscribe SPARKY'S CHANNEL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
@@ -45,7 +45,7 @@ Bino-MD Multi Device is a automated whatsapp bot created by <a href="https://git
 
 #  Fork 👇🏻
 
-- FORK THE REPOSITORY [Here](https://github.com/Sparkymon777/Bino-MD/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Rosestorycity/Rose-Bot/fork)
 
 ## `For Termux/Ssh/Ubuntu`
 ```bash
@@ -59,8 +59,8 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install wget
 pkg install imagemagick
-git clone https://github.com/Sparkymon777/Bino-MD
-cd Bino-MD
+git clone https://github.com/Rosestorycity/Rose-Bot
+cd Rose-MD
 bash install.sh
 ```
 ## `For VPS`
@@ -71,8 +71,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Sparkymon777/Bino-MD
-cd Bino-MD
+git clone https://github.com/Rosestorycity/Rose-Bot
+cd Rose-MD
 bash install.sh
 ```
 ## `For 24/7 Activation (Termux)`
@@ -82,5 +82,5 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
   
   
   ## Thanks To
-* [`Aswin Sparky`](https://github.com/Sparkymon777)
+* [`Rose`](https://github.com/Rosestorycity)
 
