@@ -39,9 +39,11 @@ Bino-MD Multi Device is a automated whatsapp bot created by <a href="https://git
 </p>
 
 
-## ```Bot Support Groups```
+## ```Bot Based Status Group```
 
-- [`1st GC`](https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh)
+- [`1st Group`](https://chat.whatsapp.com/FBFwSPvUFPQIjeIXVTXXJs)
+
+- [`2st Group`](https://chat.whatsapp.com/J3gu2657CFa13gerznMrg0)
 
 #  Fork 👇🏻
 
