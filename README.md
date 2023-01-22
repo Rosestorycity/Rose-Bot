@@ -9,9 +9,6 @@
 Bino-MD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Rosestorycity" target="_blank">Rose</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
-<p align="center">
-<a href="https://youtu.be/u7mArDtlTZk"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
-</p>
 
 # Install
 
