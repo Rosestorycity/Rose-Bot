@@ -6860,7 +6860,7 @@ const { device_manufacturer } = require('os')
 ram2 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 timestampe = speed();
 latensie = speed() - timestampe
-anu = `╭╼━━᚜ 𝗕𝗜𝗡𝗢-𝗠𝗗 ᚛╾ᐧᐧᐧᐧ⳹
+anu = `╭╼━━᚜ 𝚁𝙾𝚂𝙴-𝙼𝙳 ᚛╾ᐧᐧᐧᐧ⳹
 ❤️ 𝗨𝘀𝗲𝗿 𝗻𝗮𝗺𝗲 : ${pushname}
 ┊➥ 
 ┝
