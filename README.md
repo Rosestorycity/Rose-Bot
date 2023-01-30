@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Bino-MD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Rosestorycity" target="_blank">Rose</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Rose-MD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Rosestorycity" target="_blank">Rose</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
@@ -14,7 +14,7 @@ Bino-MD Multi Device is a automated whatsapp bot created by <a href="https://git
 
 ## SCAN QR FROM HERE (Open in Firefox)
 
-[![Run on Repl.it](https://repl.it/badge/github/Sparkymon777/SPARKY-BOT-MD)](https://replit.com/@RoseStorycity/ROSE-BOT-Ultra?v=output%20only=1&lite=1#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/Rosestorycity/Rose-Bot)](https://replit.com/@RoseStorycity/ROSE-BOT-Ultra?v=output%20only=1&lite=1#index.js)
 
 
 
