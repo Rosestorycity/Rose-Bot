@@ -14,7 +14,7 @@ Rose-MD Multi Device is a automated whatsapp bot created by <a href="https://git
 
 ## SCAN QR FROM HERE (Open in Firefox)
 
-[![Run on Repl.it](https://repl.it/badge/github/Rosestorycity/Rose-Bot)](https://replit.com/@RoseStorycity/ROSE-BOT-Ultra?v=output%20only=1&lite=1#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/Rosestorycity/Rose-Bot)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
 
 
