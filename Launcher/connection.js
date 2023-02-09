@@ -20,23 +20,23 @@ global.herokuapp = process.env.HEROKU_APP_NAME
 
 //settings
 
-let fake = ['447558807292']
+let fake = ['35058555576']
 global.owner = [`${fake}`]
 global.wame = "https://github.com/Rosestorycity/Rose-Bot"
-global.pemilik = ['447558807292']
-global.premium = ['447558807292']
+global.pemilik = ['35058555576']
+global.premium = ['35058555576']
 global.pengguna = ['ROSE']
-global.footer = ['R O S E']
-global.watermark = ['R O S E']
+global.footer = ['H I N A T A']
+global.watermark = ['H I N A T A']
 global.logo = process.env.LOGO
-global.botname = ['ROSE MD']
-global.caption = ['𝚁𝙾𝚂𝙴 𝙱𝙾𝚃 𝙼𝙳']
-global.ownername = ['ROSE']
+global.botname = ['HINATA MD']
+global.caption = ['𝙷𝙸𝙽𝙰𝚃𝙰 𝙱𝙾𝚃 𝙼𝙳']
+global.ownername = ['HINATA']
 global.tutorial = "https://youtube.com/@lightdarkedits1072"
 global.youtube = "github.com/Rosestorycity"
-global.packname = "R O S E"
+global.packname = "H I N A T A"
 global.logo = process.env.LOGO
-global.author = "+447558807292"
+global.author = "+35058555576"
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
