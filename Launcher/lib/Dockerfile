@@ -1,6 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/Sparkymon777/Bino-MD  /root/ajmal
+RUN git clone https://github.com/Rosestorycity/Rose-Bot  /root/rose
 
 RUN apt-get update && \
 apt-get install -y \
@@ -9,7 +9,7 @@ webp && \
 apt-get upgrade -y && \
 rm -rf /var/lib/apt/lists/*
 
-WORKDIR /root/ajmal
+WORKDIR /root/rose
 
 ENV TZ=Asia/Kolkata
 
